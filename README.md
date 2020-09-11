@@ -51,6 +51,7 @@ The build is minified and the filenames include the hashes.
 
 * [Create React App](https://github.com/facebook/create-react-app) - React build tools
 * [Ant Design](https://github.com/ant-design/ant-design) - React UI framework
+* [Redux](https://github.com/reduxjs/redux) - React state container
 
 ## Authors
 
