@@ -1,6 +1,6 @@
 # TODOLIST
 
-UNIVERSITYLIST.COM is one stop center site that provides up to date and latest information about all universities around the world.
+TODOLIST is a simple app created with React and Ant Design to show list of todos and users.
 
 ## Getting Started
 
